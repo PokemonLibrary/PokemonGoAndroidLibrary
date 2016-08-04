@@ -14,9 +14,9 @@ public class PokemonGo {
 
     public PokemonGo(Context context) {
         //Todo: add unity
-        ReLinker.loadLibrary(context, "unity");
-        ReLinker.loadLibrary(context, "vrunity");
-        ReLinker.loadLibrary(context, "main");
+        //ReLinker.loadLibrary(context, "unity");
+        //ReLinker.loadLibrary(context, "vrunity");
+        //ReLinker.loadLibrary(context, "main");
 
         ReLinker.loadLibrary(context, "il2cpp");
         ReLinker.loadLibrary(context, "pgpplugin");
