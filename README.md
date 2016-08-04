@@ -1,1 +1,1 @@
-# PokemonGoJavaLibrary
+# PokemonGoAndroidLibrary
