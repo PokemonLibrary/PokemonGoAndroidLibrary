@@ -1,6 +1,4 @@
-package io.github.pokemonlibrary.android.internal;
-
-import com.getkeepsafe.relinker.ReLinker;
+package com.nianticlabs.nia.javawrap;
 
 /**
  * Created by fabianterhorst on 04.08.16.
@@ -27,7 +25,7 @@ public class NianticPluginWrapper {
         return nativeGetApi();
     }
 
-    static {
+    /*static {
         System.loadLibrary("NianticLabsPlugin");
-    }
+    }*/
 }
